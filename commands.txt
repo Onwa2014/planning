@@ -1,0 +1,3 @@
+ls- list files on the folder
+pwd- prints the working directory
+lst -alt - lists files with rights
